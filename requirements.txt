@@ -1,0 +1,10 @@
+streamlit
+transformers
+faiss-cpu
+torch
+wikipedia-api
+matplotlib
+numpy
+scikit-learn
+llama-index
+wikipedia
